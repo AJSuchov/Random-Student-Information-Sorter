@@ -1,6 +1,4 @@
-// Lab08.cpp : Defines the entry point for the console application.
-//
-
+//Creates a random student information that can be sorted based on how user wants
 #include "stdafx.h"
 #include <cstdlib>
 #include <iostream>
